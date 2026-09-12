@@ -12,11 +12,29 @@
         href: https://dash.neoheberg.fr
         description: NeoHeberg VPS (IPv6)
 
-- 云平台:
+- 云平台与 VPS:
     - 甲骨文云:
         icon: si-oracle
         href: https://cloud.oracle.com
         description: Oracle Cloud 控制台
+    - EUserv:
+        icon: si-debian
+        href: https://www.euserv.com
+        description: 德国免费 VPS
+    - IBM LinuxONE:
+        icon: si-ibm
+        href: https://linuxone.cloud.marist.edu
+        description: IBM 免费 VPS
+    - Openworld:
+        icon: si-linux
+        href: https://openworld.eu.org
+        description: 洪都拉斯免费 VPS
+    - VPSWala:
+        icon: si-linux
+        href: https://vpswala.com
+        description: 免费 VPS（需谨慎）
+
+- 免费容器 / PaaS:
     - ClawCloud:
         icon: si-cloudflare
         href: https://console.run.claw.cloud/signin
@@ -33,10 +51,30 @@
         icon: si-railway
         href: https://railway.app
         description: 免费容器 (Railway)
+    - Render:
+        icon: si-render
+        href: https://dashboard.render.com
+        description: 免费容器 (Render)
+    - Fly.io:
+        icon: si-flydotio
+        href: https://fly.io/dashboard
+        description: 免费容器 (Fly.io)
     - Hugging Face:
         icon: si-huggingface
         href: https://huggingface.co
-        description: AI 模型与空间
+        description: AI 模型与 Space
+    - Infrlo:
+        icon: si-linux
+        href: https://dash.infrlo.com/login
+        description: 免费容器 (Infrlo)
+    - ACLClouds:
+        icon: si-linux
+        href: https://aclclouds.com/fr/
+        description: 免费容器 (ACLClouds)
+    - FreeMCHost:
+        icon: si-minecraft
+        href: https://freemchost.com
+        description: 免费 Minecraft 服务器
 
 - 网络设备:
     - 家庭 OpenWrt:
