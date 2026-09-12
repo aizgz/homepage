@@ -35,10 +35,26 @@
         description: 免费 VPS（需谨慎）
 
 - 免费容器 / PaaS:
-    - ClawCloud:
+    - ClawCloud Run:
         icon: si-cloudflare
         href: https://console.run.claw.cloud/signin
-        description: 免费容器 (ClawCloud Run)
+        description: 免费容器 (每月 $5 额度)
+    - SnapDeploy:
+        icon: si-snapcraft
+        href: https://snapdeploy.dev
+        description: 免费容器 (永久免费，15分钟休眠)
+    - Northflank:
+        icon: si-northflank
+        href: https://app.northflank.com
+        description: 免费容器 (需要信用卡验证)
+    - Miget:
+        icon: si-docker
+        href: https://miget.com
+        description: 免费容器 (支持 Docker Compose)
+    - Orihost:
+        icon: si-linux
+        href: https://orihost.com
+        description: 免费容器 (流量不限，7天续期)
     - Koyeb:
         icon: si-koyeb
         href: https://app.koyeb.com
