@@ -5,4 +5,4 @@
     - 法国节点:
         icon: si-ubuntu
         description: NeoHeberg VPS (IPv6)
-        ping: [2a06:9801:0700:0000:9ea9:ab6a:911d:0a65]
+        ping: "2a06:9801:0700:0000:9ea9:ab6a:911d:0a65"
