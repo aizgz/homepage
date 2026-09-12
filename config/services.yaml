@@ -2,6 +2,7 @@
     - Tailscale 后台:
         href: https://login.tailscale.com/admin/machines
         description: Tailscale 管理面板
-    - 法国节点面板:
-        href: http://你的法国节点IP
-        description: NeoHeberg VPS
+    - 法国节点:
+        icon: si-ubuntu
+        description: NeoHeberg VPS (IPv6)
+        ping: [2a06:9801:0700:0000:9ea9:ab6a:911d:0a65]
