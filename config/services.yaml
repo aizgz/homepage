@@ -12,7 +12,7 @@
         href: https://dash.neoheberg.fr
         description: NeoHeberg VPS (IPv6)
 
-- 云平台与 VPS:
+- VPS 与云服务器:
     - 甲骨文云:
         icon: si-oracle
         href: https://cloud.oracle.com
@@ -34,7 +34,7 @@
         href: https://vpswala.com
         description: 免费 VPS（需谨慎）
 
-- 免费容器 / PaaS:
+- 容器与 PaaS:
     - ClawCloud Run:
         icon: si-cloudflare
         href: https://console.run.claw.cloud/signin
