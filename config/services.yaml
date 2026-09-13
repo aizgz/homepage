@@ -91,6 +91,14 @@
         icon: si-minecraft
         href: https://freemchost.com
         description: 免费 Minecraft 服务器
+    - PandaStack:
+        icon: si-github
+        href: https://app.pandastack.ai/sandboxes
+        description: AI 沙盒与代码执行平台
+    - MonkeyCode:
+        icon: si-ai
+        href: https://monkeycode-ai.com/
+        description: 企业级 AI 编程平台
 
 - 网络设备:
     - 家庭 OpenWrt:
