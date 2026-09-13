@@ -11,6 +11,18 @@
         icon: si-debian
         href: https://dash.neoheberg.fr
         description: NeoHeberg VPS (IPv6)
+    - 甲骨文云站点:
+        icon: si-oracle
+        href: https://zgz.cc.cd/
+        description: 甲骨文云建站
+    - Uptime Kuma:
+        icon: uptime-kuma.png
+        href: http://141.11.237.77:30493
+        description: 服务监控状态
+        widget:
+            type: uptimekuma
+            url: http://141.11.237.77:30493
+            slug: homelab   # 请替换为你自己在 Uptime Kuma 中创建的状态页 slug
 
 - VPS 与云服务器:
     - 甲骨文云:
